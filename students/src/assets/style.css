@@ -1,0 +1,9 @@
+/* 全体で共通のCSSはこのファイルに記述する */
+body {
+  background-color: #DADADA;
+}
+
+input {
+  height: 30px;
+}
+
